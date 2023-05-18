@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"estudo/4personalidades/controllers"
+	"estudo/4personalidades-go/controllers"
 	"log"
 	"net/http"
 )

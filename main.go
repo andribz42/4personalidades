@@ -1,7 +1,7 @@
 package main
 
 import (
-	"estudo/4personalidades/routes"
+	"estudo/4personalidades-go/routes"
 )
 
 func main() {
